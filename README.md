@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Link do repozytorium z zajęciami semstr zimowy 2021/2022 -> https://github.com/SimpleMethod/PSK-SemestZimowy
 <!--
 **SimpleMethod/SimpleMethod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
